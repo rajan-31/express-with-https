@@ -1,0 +1,19 @@
+{
+  "name": "express-with-https",
+  "version": "1.0.0",
+  "description": "Simple example to Configure express to use TLS/https",
+  "main": "server.js",
+  "scripts": {
+    "test": "yep!"
+  },
+  "keywords": [
+    "express",
+    "TLS",
+    "https"
+  ],
+  "author": "Rajan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
